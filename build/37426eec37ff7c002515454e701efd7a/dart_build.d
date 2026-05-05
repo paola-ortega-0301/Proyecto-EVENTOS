@@ -1,1 +1,0 @@
- C:\\xflutterortega0301\\crudeventos\\build\\37426eec37ff7c002515454e701efd7a\\dart_build_result.json:  C:\\flutter\\bin\\cache\\dart-sdk\\version C:\\xflutterortega0301\\crudeventos\\.dart_tool\\package_config.json C:\\xflutterortega0301\\crudeventos\\pubspec.yaml c:\\xflutterortega0301\\crudeventos\\.dart_tool\\package_config.json
