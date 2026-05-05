@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27828630701",
+    "project_id": "empresaeventos-6bdbf",
+    "storage_bucket": "empresaeventos-6bdbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27828630701:android:d02a0f7c8a103fb7fec224",
+        "android_client_info": {
+          "package_name": "com.example.crudeventos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOvlDTjJqdBNtqJjgCDSmbS16q1qFQCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
